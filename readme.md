@@ -1,4 +1,6 @@
-Graph:
+Readme for DSA Assignment 2 Ques 5 (avgDepth)
+
+
 ![Graph](https://imgur.com/a/LyMy69T)
 
 Outputs:
