@@ -1,7 +1,7 @@
 Readme for DSA Assignment 2 Ques 5 (avgDepth)
 
 
-![Graph](https://imgur.com/a/LyMy69T)
+![Graph](https://imgur.com/a/LyMy69T?raw=true)
 
 Outputs:
 5.800000 10.000000 13.400000 23.200000
