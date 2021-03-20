@@ -1,5 +1,5 @@
 Readme for DSA Assignment 2 Ques 5 (avgDepth)
-
+Graph:
 ![Graph](https://i.imgur.com/lHpie4a.png)
 
 Outputs:
