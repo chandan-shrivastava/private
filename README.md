@@ -1,5 +1,5 @@
-<center>Data Structures and Algorithms</center>
-<center>Assignment 2</center>
+<div align="center">Data Structures and Algorithms</div>
+<div align="center">Assignment 2</div>
 
 Algorithm:
 
@@ -14,10 +14,10 @@ Algorithm:
 
 
 Outputs:
-5.800000 10.000000 13.400000 23.200000
-5.620000 11.040000 12.880000 21.760000
-5.730000 10.490000 13.270000 22.330000
-5.629000 10.837000 13.289000 22.006000
+>5.800000 10.000000 13.400000 23.200000
+>5.620000 11.040000 12.880000 21.760000
+>5.730000 10.490000 13.270000 22.330000
+>5.629000 10.837000 13.289000 22.006000
 
 ![Graph](https://i.imgur.com/UzrOmoG.png)
 
