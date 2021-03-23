@@ -1,7 +1,9 @@
 <div align="center">Data Structures and Algorithms</div>
 <div align="center">Assignment 2</div>
 
-Algorithm:
+**Time Complexity: O(m.n.log(n))
+
+**Algorithm:
 
 1.	Created a shuffle function which shuffles an array of integers by swapping random numbers in the array with the rand() function.
 2.	Created an insert function which creates a binary search tree by adding elements to the tree as per the condition of a binary search tree.
@@ -13,7 +15,8 @@ Algorithm:
 8.	Observed and noted the output and plotted a 3D graph as follows:
 
 
-Outputs:
+**Outputs:
+
 * 5.800000 10.000000 13.400000 23.200000
 * 5.620000 11.040000 12.880000 21.760000
 * 5.730000 10.490000 13.270000 22.330000
@@ -21,7 +24,8 @@ Outputs:
 
 ![Graph](https://i.imgur.com/UzrOmoG.png)
 
-Observation:
+**Observation:
+
 1.	As the number of elements increases in a BST then the average height of BSTs also increases.
 2.	Average Height almost does not depend on number of BSTs.
 3. Graph is similar to Logarithmic functions.
